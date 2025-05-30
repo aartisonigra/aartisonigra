@@ -12,6 +12,26 @@
 - 💡 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
 ---
+### 💻 Skills
+Frontend:
+🌐 HTML | 🎨 CSS | ⚙️ JavaScript | ⚛️ React.js
+
+Backend:
+🖥️ Node.js | 🚂 Express (if applicable)
+
+Databases:
+📂 Firebase | 🗄️ MongoDB (if you know)
+
+Programming Languages:
+☕ Java | ⚙️ JavaScript | 🐍 Python (if you know)
+
+Cloud:
+☁️ AWS | 📡 Firebase | 🛠️ Cloud Infrastructure basics
+
+Tools & Platforms:
+🔧 Git | 🐙 GitHub | 💻 VS Code | 🔍 Chrome DevTools
+
+---
 
 ### 🤝 Let's Collaborate On
 - 🔸 Web-based educational tools  
