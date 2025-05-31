@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🎓 I'm a Computer Science student with a keen interest in **Frontend Development**, **Cloud Computing**, and **AI**.
 - 🔭 Currently working on: `AI-powered Study Tools` and `Smart Flashcard System with Spaced Repetition`
-- 🌱 Learning: `React.js`, `Firebase`, `Java DSA`, and `Cloud Infrastructure`
+- 🌱 Learning: `React.js`,  `Java DSA`, and `Cloud Infrastructure`
 - 💡 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
 ---
@@ -17,16 +17,16 @@ Frontend:
 🌐 HTML | 🎨 CSS | ⚙️ JavaScript | ⚛️ React.js
 
 Backend:
-🖥️ Node.js | 🚂 Express (if applicable)
+🖥️ Node.js 
 
 Databases:
-📂 Firebase | 🗄️ MongoDB (if you know)
+📂 SQL
 
 Programming Languages:
 ☕ Java | ⚙️ JavaScript | 🐍 Python (if you know)
 
 Cloud:
-☁️ AWS | 📡 Firebase | 🛠️ Cloud Infrastructure basics
+☁️ AWS | 📡 AWS | 🛠️ Cloud Infrastructure basics
 
 Tools & Platforms:
 🔧 Git | 🐙 GitHub | 💻 VS Code | 🔍 Chrome DevTools
