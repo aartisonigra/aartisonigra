@@ -23,7 +23,7 @@ Databases:
 📂 SQL
 
 Programming Languages:
-☕ Java | ⚙️ JavaScript | 🐍 Python (if you know)
+☕ Java | ⚙️ JavaScript | 🐍 Python | c | c++ | Android | Data stucture and Algorithms 
 
 Cloud:
 ☁️ AWS | 📡 AWS | 🛠️ Cloud Infrastructure basics
