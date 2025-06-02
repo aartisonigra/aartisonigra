@@ -7,7 +7,6 @@
 
 ### 🚀 About Me
 - 🎓 I'm a Computer Science student with a keen interest in **Frontend Development**, **Cloud Computing**, and **AI**.
-- 🔭 Currently working on: `AI-powered Study Tools` and `Smart Flashcard System with Spaced Repetition`
 - 🌱 Learning: `React.js`,  `Java DSA`, and `Cloud Infrastructure`
 - 💡 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
