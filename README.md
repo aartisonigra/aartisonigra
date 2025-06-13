@@ -12,25 +12,29 @@
 
 ---
 
-### 💻 Skills
 
-**Frontend:**  
-🌐 HTML | 🎨 CSS | ⚙️ JavaScript | ⚛️ React.js  
+### 💻 Technical Skills
 
-**Backend:**  
+#### 🖥️ Frontend Development  
+🌐 HTML &nbsp;|&nbsp; 🎨 CSS &nbsp;|&nbsp; ⚙️ JavaScript &nbsp;|&nbsp; ⚛️ React.js  
+
+#### 🛠️ Backend Development  
 🖥️ Node.js  
 
-**Databases:**  
+#### 🗄️ Databases  
 📂 SQL  
 
-**Programming Languages:**  
-☕ Java | ⚙️ JavaScript | 🐍 Python | 💻 C | 💡 C++ | 📱 Android | 📚 DSA | 🧩 PHP  
+#### 👨‍💻 Programming Languages  
+☕ Java &nbsp;|&nbsp; ⚙️ JavaScript &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 💻 C &nbsp;|&nbsp; 💡 C++  
+📱 Android &nbsp;|&nbsp; 📚 DSA &nbsp;|&nbsp; 🧩 PHP  
 
-**Cloud:**  
-☁️ AWS | 📡 Cloud Concepts | 🛠️ Infrastructure Basics  
+#### ☁️ Cloud & DevOps  
+☁️ AWS &nbsp;|&nbsp; 📡 Cloud Concepts &nbsp;|&nbsp; 🛠️ Infrastructure Basics  
 
-**Tools & Platforms:**  
-🔧 Git | 🐙 GitHub | 💻 VS Code | 🔍 Chrome DevTools
+#### 🔧 Tools & Platforms  
+🐙 GitHub &nbsp;|&nbsp; 💻 VS Code &nbsp;|&nbsp; 🔍 Chrome DevTools &nbsp;|&nbsp; 🔧 Git  
+
+---
 
 ---
 
@@ -53,7 +57,7 @@
 ### 📫 Reach Me At
 - 📧 Email: [aartisonigra25@gmail.com](mailto:aartisonigra25@gmail.com)  
 - 💼 LinkedIn: [Aarti Sonigra](https://www.linkedin.com/in/aarti-sonigra-910019341)  
-- 🌐 Portfolio: `aartisonigra.dev` (coming soon)
+- Email-aaratisoniga25@gmail.com
 
 ---
 
@@ -63,8 +67,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarti_124/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aarti_987)  
 [![Unstop](https://img.shields.io/badge/Unstop-1A73E8?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/practice/coding)  
-[![CodeStudio](https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=codio&logoColor=white)](https://www.naukri.com/code360/profile/your-username-here)  
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-2D2D2D?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/your-username-here)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=codio&logoColor=white)](https://www.naukri.com/code360/profile/3f52ea85-61c3-4d15-b3f2-fef43b02df1d)  
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-2D2D2D?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/aarti-sonigara/)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=codingninjas&logoColor=white)](https://codolio.com/profile/Aarti_sonira)
+
 
 ---
 
