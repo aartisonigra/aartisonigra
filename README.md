@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=radical&count_private=true&custom_title=Aarti's%20GitHub%20Stats" alt="github stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=radical" alt="top langs" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
