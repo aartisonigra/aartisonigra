@@ -93,18 +93,19 @@
 
 ---
 
-### 🏆 Competitive Programming Profiles
+## 🏆 Competitive Programming Profiles
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C000?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/23amtis35i/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aarti_124/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aarti_987)  
-[![Unstop](https://img.shields.io/badge/Unstop-1A73E8?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/practice/coding)  
-[![CodeStudio](https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=codio&logoColor=white)](https://www.naukri.com/code360/profile/3f52ea85-61c3-4d15-b3f2-fef43b02df1d)  
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-2D2D2D?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/aarti-sonigara/)
-[![CodeStudio](https://img.shields.io/badge/CodeStudio-1E90FF?style=for-the-badge&logo=codingninjas&logoColor=white)](https://codolio.com/profile/Aarti_sonira)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14a800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aartisonigra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aartisonigra/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aartisonigra)
+[![Unstop](https://img.shields.io/badge/Unstop-0056D2?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/user/aartisonigra)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-0078D4?style=for-the-badge)](https://www.codingninjas.com/codestudio/profile/aartisonigra)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-1F1F1F?style=for-the-badge)](https://www.interviewbit.com/profile/aartisonigra)
 
 
 ---
+## ⚡ Fun Fact
 
-### ⚡ Fun Fact
-I love turning ☕ coffee into code, solving logic puzzles, and building things that make people go “WOW” ✨
+I love turning ☕ coffee into code, solving DSA puzzles 🧩, and building things that make people go **"WOW"** ✨  
+Always ready for the next challenge 🚀!
+
