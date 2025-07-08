@@ -52,15 +52,24 @@
 
 ---
 
-### 🏆 GitHub Stats
+## 🚀 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aartisonigra&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=radical&count_private=true&custom_title=Aarti's%20GitHub%20Stats" alt="github stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=radical" alt="top langs" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aartisonigra&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
+
+## 🧑‍💻 Open Source Contributions
+
+- ✅ GSSoC24 – [Cyberpunk Web UI Project PR](https://github.com/GSSoC24/Contributor/pull/1)
+- ✅ Chess Legend React Game – [View Project](https://github.com/aartisonigra/Contributor/tree/main/chess-legend)
+
 
 ### 🗂️ GitHub Contribution Graph
 
