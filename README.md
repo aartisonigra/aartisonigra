@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**, and **AI**.
+- 🎓 I'm a 3rd-year Computer Science student with a strong interest in **Frontend Development**, **Cloud Computing**,**backend development**
 - 🌱 Currently learning: `React.js`, `Java DSA`, and `Cloud Infrastructure`
 - 💡 Exploring: `Hackathons`, `Open Source`, and `Problem Solving`
 
