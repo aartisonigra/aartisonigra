@@ -5,21 +5,22 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Student  
-- 🌱 Learning: React.js, Java DSA, Cloud  
-- 🏆 Hackathons • Open Source • CP  
+- 👋 Hi, I’m **Aarti Sonigra**, a passionate Computer Science student.
+- 🎓 Currently learning and building projects in **Web Development**, **Cloud Computing**, and **DSA**.
+- 🌱 Exploring **React.js**, **Java DSA**, and **Cloud Technologies**.
+- 🏆 Actively participating in **Hackathons**, **Open Source**, and **Competitive Programming**.
 
 ---
 
 ## 🛠️ Skills & Expertise
 
 ### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html,css,js,react)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
 
-### ⚙️ Backend & DB
+### ⚙️ Backend & Databases
 ![Backend](https://skillicons.dev/icons?i=nodejs,php,mysql)
 
-### 🧠 Languages
+### 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp)
 
 ### ☁️ Cloud & Tools
@@ -30,27 +31,23 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aartisonigra&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aartisonigra&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-[![Aarti's Activity](https://github-readme-activity-graph.vercel.app/graph?username=aartisonigra&theme=github-compact)](https://github.com/aashutoshrathi/github-activity-readme)
-
----
-
-## 🐍 Snake Eating My Contributions
-![Snake](https://github.com/aartisonigra/aartisonigra/blob/output/github-contribution-grid-snake.svg)
+[![Aarti's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aartisonigra&theme=github-compact)](https://github.com/aashutoshrathi/github-activity-readme)
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aartisonigra-910019341)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aarti-sonigra-910019341/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aartisonigra)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aartisonigra25@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaratisonigra25@gmail.com)
