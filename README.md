@@ -1,27 +1,29 @@
 ### 👋 Hi, I'm Aarti Sonigra  
 
-💻 Web Developer | ☁️ Cloud Enthusiast | 🧠 DSA & AI Explorer  
+💻 Web Developer | ☁️ Cloud Enthusiast | 🧠 DSA Explorer  
 
 ---
 
 ## 🚀 About Me
 - 👋 Hi, I’m **Aarti Sonigra**, a passionate Computer Science student.
-- 🎓 Currently learning and building projects in **Web Development**, **Cloud Computing**, and **DSA**.
-- 🌱 Exploring **React.js**, **Java DSA**, and **Cloud Technologies**.
+- 🎓 Interested in **Web Development**, **Cloud Computing**, and **Problem Solving (DSA)**.
+- 🌱 Currently learning **React.js**, **Java DSA**, and **Cloud Technologies**.
 - 🏆 Actively participating in **Hackathons**, **Open Source**, and **Competitive Programming**.
 
 ---
 
 ## 🛠️ Skills & Expertise
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
-
-### ⚙️ Backend & Databases
-![Backend](https://skillicons.dev/icons?i=nodejs,php,mysql)
 
 ### 🧠 Programming Languages
 ![Languages](https://skillicons.dev/icons?i=java,python,c,cpp)
+
+### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+- **SQL**
+- **RDBMS Concepts**
 
 ### ☁️ Cloud & Tools
 ![Tools](https://skillicons.dev/icons?i=aws,git,github,vscode)
