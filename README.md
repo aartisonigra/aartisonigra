@@ -12,21 +12,12 @@
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Skills & Technologies
 
-### 🌐 Frontend Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)
 
-### 🧠 Programming Languages
-![Languages](https://skillicons.dev/icons?i=java,python,c,cpp)
-
-### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
-- **SQL**
-- **RDBMS Concepts**
-
-### ☁️ Cloud & Tools
-![Tools](https://skillicons.dev/icons?i=aws,git,github,vscode)
+**Technologies I work with:**  
+HTML, CSS, JavaScript, React.js, Node.js, Express, Django, TypeScript, Flutter, Java, Python, C, C++, MongoDB, MySQL, SQLite, SQL, RDBMS Concepts, AWS, Git, GitHub, VS Code
 
 ---
 
@@ -44,12 +35,12 @@
 ---
 
 ## 📈 Contribution Graph
-[![Aarti's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aartisonigra&theme=github-compact)](https://github.com/aashutoshrathi/github-activity-readme)
+[![Aarti's GitHub Activity](https://readme-activity-graph.vercel.app/graph?username=aartisonigra&theme=github-compact)](https://github.com/aartisonigra)
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aarti-sonigra-910019341/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aartisonigra)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aarti-sonigra-910019341/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aartisonigra)  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaratisonigra25@gmail.com)
