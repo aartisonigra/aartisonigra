@@ -37,6 +37,6 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aarti-sonigra-910019341/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aartisonigra)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aarti-sonigra-910019341/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/aartisonigra)  
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aaratisonigra25@gmail.com)
+
