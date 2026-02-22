@@ -11,6 +11,26 @@
 - 🏆 Actively participating in **Hackathons**, **Open Source**, and **Competitive Programming**.
 
 ---
+💻 Skills
+Frontend:
+🌐 HTML | 🎨 CSS | ⚙️ JavaScript | ⚛️ React.js
+
+Backend:
+🖥️ Node.js | 🚂 Express (if applicable)
+
+Databases:
+📂 Firebase | 🗄️ MongoDB (if you know)
+
+Programming Languages:
+☕ Java | ⚙️ JavaScript | 🐍 Python (if you know)
+
+Cloud:
+☁️ AWS | 📡 Firebase | 🛠️ Cloud Infrastructure basics
+
+Tools & Platforms:
+🔧 Git | 🐙 GitHub | 💻 VS Code | 🔍 Chrome DevTools
+
+-------------------------------------------------------------------------------------
 
 ## 🛠️ Skills & Technologies
  ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Android](https://skillicons.dev/icons?i=android) ![Google Cloud](https://skillicons.dev/icons?i=googlecloud) ![Firebase](https://skillicons.dev/icons?i=firebase) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)
