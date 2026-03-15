@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Aarti Sonigra  
 
-💻 Web Developer | ☁️ Cloud Enthusiast | 🧠 DSA Explorer  
+🧠 DSA Learner | 💻 Tech Enthusiast
 
 ---
 
