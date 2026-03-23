@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aartisonigra&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=aartisonigra" />
 </p>
 
 ---
