@@ -10,17 +10,23 @@ I enjoy building real-world projects, participating in hackathons, and actively 
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages:
+💻 Languages:
 Java, JavaScript, Python, C, C++, HTML, CSS  
 
-### ⚙️ Frameworks & Libraries:
-React.js, Node.js, Express.js  
+⚙️ Frameworks & Libraries:
+React.js, Node.js, Express.js, Django, Flutter  
 
-### 🧰 Tools & Platforms:
-Git, GitHub, VS Code, Firebase  
+🧰 Tools & Platforms:
+Git, GitHub, VS Code, Firebase ,AWS, Google Cloud
 
-### 🗄️ Databases:
-MySQL, MongoDB  
+🔗 API & Backend:
+REST APIs, API Integration, CRUD API Development, JSON & HTTP Handling  
+
+🗄️ Databases:
+MySQL, MongoDB, PostgreSQL, Firebase (Firestore)  
+
+📱 Other:
+Android Development  
 
 ### 🌱 Currently Exploring:
 Cloud Computing, Advanced DSA , Go,  Laravel, Rust. 
