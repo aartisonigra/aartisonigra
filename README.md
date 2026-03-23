@@ -1,37 +1,49 @@
 # 👋 Hi, I'm Aarti Sonigra  
 
-🧠 DSA Learner | 💻 Tech Enthusiast  
-🌱 Always learning and improving  
-🚀 Focused on growth and progress  
-
----
-
 ## 🚀 About Me
-- 💻 Computer Science Student  
-- 📚 Learning React.js, Java DSA & Cloud  
-- 🔥 Interested in Web Development & Problem Solving  
-- 🎯 Goal: Become a skilled developer  
+I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
+
+Currently enhancing my expertise in Data Structures & Algorithms while exploring cloud technologies and advanced tools like Go, Laravel, and Rust.  
+I enjoy building real-world projects, participating in hackathons, and actively contributing to open-source communities.
 
 ---
 
-## 🛠️ Skills
-HTML • CSS • JavaScript • React • Java • Git  
+## 🛠️ Technologies & Tools
+
+### 💻 Languages:
+Java, JavaScript, Python, C, C++, HTML, CSS  
+
+### ⚙️ Frameworks & Libraries:
+React.js, Node.js, Express.js  
+
+### 🧰 Tools & Platforms:
+Git, GitHub, VS Code, Firebase  
+
+### 🗄️ Databases:
+MySQL, MongoDB  
+
+### 🌱 Currently Exploring:
+Cloud Computing, Advanced DSA , Go,  Laravel, Rust. 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aartisonigra" />
+  <img src="https://streak-stats.demolab.com?user=aartisonigra&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/aarti-sonigra  
 - GitHub: https://github.com/aartisonigra  
+
+---
+
+⭐ Built with ❤️ by Aarti Sonigra
