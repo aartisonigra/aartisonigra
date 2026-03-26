@@ -23,7 +23,7 @@ Git, GitHub, VS Code, Firebase ,AWS, Google Cloud
 REST APIs, API Integration, CRUD API Development, JSON & HTTP Handling  
 
 🗄️ Databases:
-MySQL, MongoDB, PostgreSQL, Firebase (Firestore)  
+MySQL, MongoDB, PostgreSQL, Firebase (Firestore), SQLLite, SQL, DBMS
 
 📱 Other:
 Android Development  
@@ -52,4 +52,4 @@ Cloud Computing, Advanced DSA , Go,  Laravel, Rust.
 
 ---
 
-                                                           ⭐ Built with ❤️ by Aarti Sonigra
+                                                           #⭐ Built with ❤️ by Aarti Sonigra
