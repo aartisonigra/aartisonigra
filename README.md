@@ -32,6 +32,26 @@ Android Development
 Cloud Computing, Advanced DSA , Go,  Laravel, Rust. 
 
 ---
+💻 Skills
+Frontend:
+🌐 HTML | 🎨 CSS | ⚙️ JavaScript | ⚛️ React.js
+
+Backend:
+🖥️ Node.js | 🚂 Express (if applicable)
+
+Databases:
+📂 Firebase | 🗄️ MongoDB (if you know)
+
+Programming Languages:
+☕ Java | ⚙️ JavaScript | 🐍 Python (if you know)
+
+Cloud:
+☁️ AWS | 📡 Firebase | 🛠️ Cloud Infrastructure basics
+
+Tools & Platforms:
+🔧 Git | 🐙 GitHub | 💻 VS Code | 🔍 Chrome DevTools
+
+-------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
