@@ -29,7 +29,7 @@ MySQL, MongoDB, PostgreSQL, Firebase (Firestore), SQLLite, SQL, DBMS
 Android Development  
 
 ### 🌱 Currently Exploring:
-Cloud Computing, Advanced DSA , Go,  Laravel, Rust. 
+Cloud Computing, Advanced DSA , Go,  Laravel, Rust, Ruby. 
 
 ---
 
