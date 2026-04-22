@@ -33,19 +33,6 @@ Cloud Computing, Advanced DSA , Go,  Laravel, Rust, Ruby.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aartisonigra&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aartisonigra&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aartisonigra&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/aarti-sonigra  
 - GitHub: https://github.com/aartisonigra  
