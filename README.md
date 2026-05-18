@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarti Sonigra  
+ 👋 Hi, I'm Aarti Sonigra  
 
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
