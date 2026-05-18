@@ -1,4 +1,4 @@
- 👋 Hi, I'm Aarti Sonigra  
+# 👋 Hi, I'm Aarti Sonigra  
 
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
@@ -20,7 +20,7 @@ React.js, Node.js, Express.js, Django, Flutter
 Git, GitHub, VS Code, Firebase ,AWS, Google Cloud
 
 🔗 API & Backend:
-REST APIs, API Integration, CRUD API Development, JSON & HTTP Handling  
+REST APIs, API Integration, CRUD API Development, JSON & HTTP Handling, Convex Realtime Backend
 
 🗄️ Databases:
 MySQL, MongoDB, PostgreSQL, Firebase (Firestore), SQLLite, SQL, DBMS
