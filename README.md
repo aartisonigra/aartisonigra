@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=1000&height=90&lines=SYSTEM+ONLINE...;%F0%9F%91%8B+HI%2C+I'M+AARTI+SONIGRA;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%E2%98%81%EF%B8%8F+CLOUD+EXPLORER;%F0%9F%94%A5+OPEN+SOURCE+CONTRIBUTOR;%E2%9A%A1+CODE.+CREATE.+INNOVATE." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=👋+Hi+There!;I'm+Aarti+Sonigra;⚡+Code.+Build.+Repeat." />
 
 </div>
-
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
 
