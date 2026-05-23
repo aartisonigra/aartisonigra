@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=👋+Hi+There!;I'm+Aarti+Sonigra;Code.+Build.+Repeat.;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=80&lines=%3E%3E%3E+INITIALIZING...;%F0%9F%91%8B+Hi+There!;I'M+AARTI+SONIGRA;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%E2%9A%A1+CODE.+BUILD.+REPEAT.;%F0%9F%94%A5+HACKATHON+EXPLORER" />
 
 </div>
 
