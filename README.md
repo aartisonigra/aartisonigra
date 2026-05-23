@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=👋+Hi+There!;I'm+Aarti+Sonigra;⚡+Code.+Build.+Repeat." />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi+There!;I'm+Aarti+Sonigra;%E2%9A%A1+Code.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
+
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
 
