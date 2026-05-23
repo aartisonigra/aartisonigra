@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Aarti Sonigra  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aarti Sonigra  
+
 
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
