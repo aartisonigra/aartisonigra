@@ -1,4 +1,14 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aarti Sonigra  
+<div align="center">
+
+# ✨ Hey there, I'm Aarti  ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+%26+DSA+Enthusiast;Open+Source+Contributor;Hackathon+Explorer" />
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+
+</div>
+
+--- 
 
 
 ## 🚀 About Me
