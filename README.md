@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=Aarti+Sonigra;Code.+Build.+Repeat.;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=👋+Hi+There!;I'm+Aarti+Sonigra;Code.+Build.+Repeat.;Full+Stack+Developer" />
 
 </div>
 
