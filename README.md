@@ -4,6 +4,8 @@
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=aartisonigra&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 🚀 About Me
 I'm a Computer Science student, passionate about Web Development, Cloud Computing, and Problem Solving (DSA).
 
